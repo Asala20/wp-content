@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/mu-plugins/
+!/themes/
+/themes/*
+!/themes/MyTheme/
+node_modules/
